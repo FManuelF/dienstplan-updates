@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Manuel Füeß · Dienstplan-Assistent</title>
-        <link>https://updates.fueess.de/dienstplan/appcast.xml</link>
-        <description>Updates für den Dienstplan-Assistenten.</description>
-        <language>de</language>
+        <title>Dienstplan Import</title>
+        <item>
+            <title>1.15</title>
+            <pubDate>Sat, 21 Nov 2026 11:45:14 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.15/Dienstplan-Assistent-1.15.zip" length="5290171" type="application/octet-stream" sparkle:edSignature="Vq/pYDqaGo79rDS4kklivciE5l9ZoobVUfTMTv88I8yzceR5QZM8OTFGCzjV0eQxKIw8QjTneXgQKdqS6onKCQ=="></enclosure>
+        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bm5uyLXKJEYBUFliztrq5vxufRZKPQD174udcnX68V1P0PQiakagIZWZvGw9L372K5AW0jI5uLNwBCbE+nYDCg==
-length: 653
+edSignature: FbJ0RJ9+9qWlt8Bp/E6i4QAgjRdZqJ3ScL8gpKMjl6HENAk5Oj2vBDdI8BSI8tsv3anMqRICs5LZKV/MIM1PDw==
+length: 1069
 -->
