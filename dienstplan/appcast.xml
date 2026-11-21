@@ -2,17 +2,17 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Dienstplan Import</title>
+        <title>Dienstplan-Assistent</title>
         <item>
-            <title>1.15</title>
-            <pubDate>Sat, 21 Nov 2026 11:45:14 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+            <title>1.25</title>
+            <pubDate>Sat, 21 Nov 2026 18:56:39 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.15/Dienstplan-Assistent-1.15.zip" length="5290171" type="application/octet-stream" sparkle:edSignature="Vq/pYDqaGo79rDS4kklivciE5l9ZoobVUfTMTv88I8yzceR5QZM8OTFGCzjV0eQxKIw8QjTneXgQKdqS6onKCQ=="></enclosure>
+            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.25/Dienstplan-Assistent-1.25.dmg" length="8035984" type="application/octet-stream" sparkle:edSignature="fFEMYYOIppD5xlMio4BaV0EIsmmRQZRINOrVxiwPDpSRCYDAP/4PRdIwk7sb+b+M5ui7iTwg5qHWbd6nmLK6AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FbJ0RJ9+9qWlt8Bp/E6i4QAgjRdZqJ3ScL8gpKMjl6HENAk5Oj2vBDdI8BSI8tsv3anMqRICs5LZKV/MIM1PDw==
-length: 1069
+edSignature: iYWW7baPPcsUC6finkrs7T6qIkYSqd/38aBeJyWUmvBXOx+QeJswSnAUv5sXNZwa9+GsfyJeBM3R1ZzXE8kdCg==
+length: 1072
 -->
