@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Manuel Füeß · Dienstplan-Assistent</title>
+        <link>https://updates.fueess.de/dienstplan/appcast.xml</link>
+        <description>Updates für den Dienstplan-Assistenten.</description>
+        <language>de</language>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: bm5uyLXKJEYBUFliztrq5vxufRZKPQD174udcnX68V1P0PQiakagIZWZvGw9L372K5AW0jI5uLNwBCbE+nYDCg==
+length: 653
+-->
