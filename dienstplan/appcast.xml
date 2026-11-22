@@ -4,15 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Dienstplan-Assistent</title>
         <item>
-            <title>1.25</title>
-            <pubDate>Sat, 21 Nov 2026 18:56:39 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.25</sparkle:shortVersionString>
+            <title>1.28</title>
+            <pubDate>Sun, 22 Nov 2026 17:09:21 +0100</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.25/Dienstplan-Assistent-1.25.dmg" length="8035984" type="application/octet-stream" sparkle:edSignature="fFEMYYOIppD5xlMio4BaV0EIsmmRQZRINOrVxiwPDpSRCYDAP/4PRdIwk7sb+b+M5ui7iTwg5qHWbd6nmLK6AA=="></enclosure>
+            <description sparkle:format="markdown"><![CDATA[- Dienstpläne für mehrere Monate gemeinsam prüfen und übernehmen. Bei einem gespeicherten SSB-Konto meldet sich die App direkt an.
+- Automatische Abgleiche im Hintergrund und optional beim Start von Apple Kalender, mit einstellbarem Mindestabstand.
+- Änderungen im Übertragungsprotokoll nachvollziehen. Kalendertitel und Vorlaufzeit individuell einstellen.
+- Die BLS-Adresse wird als Kartenstandort gespeichert. Die Wegezeit lässt sich in Apple Kalender verwalten.
+- Ruhigeres Bedienlayout und kopierbarer Versionsverlauf.
+]]></description>
+            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.28/Dienstplan-Assistent-1.28.dmg" length="8964102" type="application/octet-stream" sparkle:edSignature="Yqf711VXdv63a6HMAtZrT3X0SmHatkZCHh8hczpfv3xFVMP4zdnezfQl/80gIoJXwKUM5AKuiQgXiosNxHxZCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iYWW7baPPcsUC6finkrs7T6qIkYSqd/38aBeJyWUmvBXOx+QeJswSnAUv5sXNZwa9+GsfyJeBM3R1ZzXE8kdCg==
-length: 1072
+edSignature: VC6OgyBJlRdAfeuRauJV7fwGqEtfhaNC5bOktSF4xCSY+B91h1bezo03aYF/8wFJygubVuGcJkmM0mRHX43JAQ==
+length: 1680
 -->
