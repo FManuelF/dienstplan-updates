@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Dienstplan-Assistent</title>
         <item>
-            <title>1.28</title>
-            <pubDate>Sun, 22 Nov 2026 17:09:21 +0100</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.28</sparkle:shortVersionString>
+            <title>1.29</title>
+            <pubDate>Wed, 25 Nov 2026 11:55:48 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Dienstpläne für mehrere Monate gemeinsam prüfen und übernehmen. Bei einem gespeicherten SSB-Konto meldet sich die App direkt an.
-- Automatische Abgleiche im Hintergrund und optional beim Start von Apple Kalender, mit einstellbarem Mindestabstand.
-- Änderungen im Übertragungsprotokoll nachvollziehen. Kalendertitel und Vorlaufzeit individuell einstellen.
-- Die BLS-Adresse wird als Kartenstandort gespeichert. Die Wegezeit lässt sich in Apple Kalender verwalten.
-- Ruhigeres Bedienlayout und kopierbarer Versionsverlauf.
+            <description sparkle:format="markdown"><![CDATA[- Statistik: Monats- und Jahresübersicht für Arbeitstage gesamt, Urlaub, Kranktage, FZA, LZA und ÜZ-Tage. Dienste werden nach Bedienplatz und Schicht ausgewertet. Kombinierte Bedienplätze wie „4 + 3“ zählen als ein Dienst.
+- Kalendernotizen: Die Dienstdaten stehen übersichtlich untereinander. Persönliche Notizen bleiben erhalten und stehen ganz unten.
+- Mac-Mitteilungen: Auf Wunsch meldet die App nach einer erfolgreichen automatischen Übertragung Änderungen an bestehenden Diensten. Die Mitteilung zeigt den bisherigen und den neuen Stand und berücksichtigt auch entfallene Dienste und Wechsel zu Abwesenheiten.
+- Übertragungsprotokoll: Das Protokoll lässt sich leeren. Auf Wunsch löscht die App Einträge nach einer einstellbaren Anzahl von Tagen.
+- Versionsverlauf: Der gesamte Text lässt sich auf einmal markieren und kopieren.
 ]]></description>
-            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.28/Dienstplan-Assistent-1.28.dmg" length="8964102" type="application/octet-stream" sparkle:edSignature="Yqf711VXdv63a6HMAtZrT3X0SmHatkZCHh8hczpfv3xFVMP4zdnezfQl/80gIoJXwKUM5AKuiQgXiosNxHxZCg=="></enclosure>
+            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.29/Dienstplan-Assistent-1.29.dmg" length="9163785" type="application/octet-stream" sparkle:edSignature="f7lZ2RWymlK/r6q+v/kBRdx/6+c21vWT6PHGcwv3eB9zKqsYzaQrESAVWNp3VYv24I7lnTkb10ezeGZCKc7UCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VC6OgyBJlRdAfeuRauJV7fwGqEtfhaNC5bOktSF4xCSY+B91h1bezo03aYF/8wFJygubVuGcJkmM0mRHX43JAQ==
-length: 1680
+edSignature: 3TrUMon1wrD0rt8dNmlBPsigSlw7oDTwvXd5bjdeOOaTsAHf79zPHuV1TPIkEGWD7mA/2q29n+AQi8VLSYTFBg==
+length: 2003
 -->
