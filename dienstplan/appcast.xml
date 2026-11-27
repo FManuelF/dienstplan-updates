@@ -4,6 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Dienstplan-Assistent</title>
         <item>
+            <title>1.30</title>
+            <pubDate>Fri, 27 Nov 2026 22:25:40 GMT</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Die Statistik öffnet in der Jahresansicht. Schichten werden nach Dienstbeginn eingeteilt.
+- Springer u. PKW2 Spät und AD/FD u. Springer werden separat ausgewiesen. Nicht zugeordnete Dienste stehen unter Sonstige.
+- Die Kalendernotizen enthalten bei Bedienplatzdiensten die zugehörigen Telefonnummern unter Erreichbarkeit.
+]]></description>
+            <enclosure url="https://github.com/FManuelF/dienstplan-updates/releases/download/v1.30/Dienstplan-Assistent-1.30.dmg" length="9179770" type="application/octet-stream" sparkle:edSignature="QP1eE/LUwxaPNzuNVTU3ZDGF+xx+fyvzlotee0LsWsV5rIoEEpGPfg+4Bni8m0VGXE0BcJrfwFzR53TMYBKrBQ=="></enclosure>
+        </item>
+        <item>
             <title>1.29</title>
             <pubDate>Wed, 25 Nov 2026 11:55:48 +0100</pubDate>
             <sparkle:version>30</sparkle:version>
@@ -19,6 +31,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3TrUMon1wrD0rt8dNmlBPsigSlw7oDTwvXd5bjdeOOaTsAHf79zPHuV1TPIkEGWD7mA/2q29n+AQi8VLSYTFBg==
-length: 2003
+edSignature: Wlul+52JLYwF1mnHwq9kgKa+P6PoMMyF+hRfkJYjqNVAE3Wqr6iIyk3vYt/i0zMGg3X1K/QaUOqe0Yd89O7OCg==
+length: 3037
 -->
